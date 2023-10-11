@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "title": "HELLO",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Hi",
+      "completed": false,
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
